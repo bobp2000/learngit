@@ -5,3 +5,4 @@ ddddddddddddddddddddddd
 this's a beutiful girl!
 tututu :)
 2020-5-7
+Git has a mutable index called stage.
